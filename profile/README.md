@@ -1,4 +1,4 @@
-# ![Banner](./images/main_image.png) 
+# ![울산대학교ICT 알림it](./images/main_image.png) 
 > **알림it: 울산대학교 ICT융합학부 알림 확인 앱 서비스**
 
 📌 **Introduction**  
