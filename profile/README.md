@@ -27,4 +27,4 @@
 <hr style="border: 1px solid #000;">
 
 
-> **문의**: 프로젝트 관련 질문이나 기여 문의는 [girookim@gmail.com](girookim@gmail.com)으로 보내주세요!👍
+> **문의**: 프로젝트 관련 질문이나 기여 문의는 [asdf009D72@gmail.com](asdf009D72@gmail.com)으로 보내주세요!👍
