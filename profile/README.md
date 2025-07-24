@@ -1,10 +1,11 @@
-# ![알림이U](./images/top_banner.png) 
+# ![알림이U](./images/main_page.png)
+<!-- # ![알림이U](./images/top_banner.png)  -->
 > **알림이U: 울산대학교 공지 확인 앱 서비스**
 
 <h1 style="font-size: 60px;">알림이U</h1>
 <hr style="border: 1px solid #000;">
 
-# ![main_img](./images/main_page.png)
+<!-- # ![main_img](./images/main_page.png) -->
 
 
 📌 **Introduction**  
