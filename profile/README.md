@@ -1,9 +1,9 @@
 # ![알림이U](./images/top_banner.png) 
-> **알림이U: 울산대학교 ICT융합학부 공지 확인 앱 서비스**
+> **알림이U: 울산대학교 공지 확인 앱 서비스**
 
 <h1 style="font-size: 60px;">알림이U</h1>
 <hr style="border: 1px solid #000;">
-![headimage](images/main_page.png)
+![headimage](./images/main_page.png)
 
 
 📌 **Introduction**  
