@@ -3,6 +3,7 @@
 
 <h1 style="font-size: 60px;">알림이U</h1>
 <hr style="border: 1px solid #000;">
+![headimage](images/main_image1.png)
 
 
 📌 **Introduction**  
